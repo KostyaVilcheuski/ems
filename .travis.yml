@@ -1,2 +1,4 @@
 language: c++
 compiler: clang
+deploy:
+        skip_cleanup:true
